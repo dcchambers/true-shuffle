@@ -1,0 +1,11 @@
+{
+  "name": "true-shuffle",
+  "version": "0.0.1",
+  "author": "Dakota Chambers",
+  "description": "A tiny javascript library for emulating real-world card shuffling techniques.",
+  "keywords": [
+    "shuffle",
+    "card",
+    "randomize"
+  ]
+}
